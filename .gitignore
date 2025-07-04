@@ -7,3 +7,4 @@
 include/
 lib/
 src/secrets.h
+test/
